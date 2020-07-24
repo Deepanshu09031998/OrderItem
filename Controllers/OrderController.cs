@@ -38,7 +38,7 @@ namespace OrderItem.Controllers
         }
         static string GetToken(string url)
         {
-            var user = new User { Name="Jignesh",Password="Jignesh123"};
+            var user = new User { Name="Deepanshu",Password="Deepanshu12"};
             var json = JsonConvert.SerializeObject(user);
             var data = new StringContent(json, Encoding.UTF8, "application/json");
 
