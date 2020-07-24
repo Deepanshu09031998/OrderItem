@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BI+Qn/YVGiAzEhT5/hvQtlT0sEL0FRDHi2iq/nV3wxiLiyrIiBihmFEup7snOzoQYtZVPRfPV0GteF7DmiV3HA==",
+  "success": true,
+  "projectFilePath": "D:\\Cognizant\\truyum-WebApi\\OrderItem\\OrderItem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\deepa\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
+    "C:\\Users\\deepa\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
